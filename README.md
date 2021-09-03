@@ -1,1 +1,1 @@
-{"open": 0, "url": "https://www.koco.work/pag1/"}
+{"open": 0, "url": "https://www.koco.work/pag1"}
