@@ -1,1 +1,1 @@
-{"open": 0, "url": "https://oowyaskkww.com"}
+{"open": 0, "url": "https://www.81111.work/index.htm"}
