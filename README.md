@@ -1,1 +1,1 @@
-{"open": 0, "url": "https://shoppijobs.com/"}
+{"open": 1, "url": "https://shoppijobs.com/"}
