@@ -1,1 +1,1 @@
-{"open": 1, "url": "https://www.hjxx.work/"}
+{"open": 1, "url": "https://poqjob.com/"}
