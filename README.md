@@ -1,1 +1,1 @@
-{"open": 0, "url": "https://poqjob.com/ "}
+{"open": 1, "url": "https://poqjob.com/ "}
